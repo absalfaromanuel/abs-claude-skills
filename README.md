@@ -1,4 +1,4 @@
-# Abs R&D — Claude Skills
+# Abs RD — Claude Skills
 
 Colección de skills para Claude AI desarrolladas por [Abs Research and Development](https://github.com/absalfaromanuel).
 
