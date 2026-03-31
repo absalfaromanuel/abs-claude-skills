@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Evals (test outputs)
+evals/
+*-workspace/
+
+# Generated .skill files — se generan con build.py
+# Descomenta la siguiente línea si NO quieres versionar los .skill
+# releases/*.skill
