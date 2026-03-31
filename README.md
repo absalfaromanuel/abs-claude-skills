@@ -1,6 +1,6 @@
 # Abs R&D — Claude Skills
 
-Colección de skills para Claude AI desarrolladas por [Abs Research & Development](https://github.com/TU_USUARIO).
+Colección de skills para Claude AI desarrolladas por [Abs Research and Development](https://github.com/absalfaromanuel).
 
 Cada skill enseña a Claude las mejores prácticas para un stack tecnológico específico, con documentación verificada contra fuentes oficiales.
 
@@ -106,4 +106,4 @@ python build.py --list              # Lista skills disponibles
 
 ## Licencia
 
-MIT License — Abs Research & Development
+MIT License — Abs Research and Development
