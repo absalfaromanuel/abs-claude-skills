@@ -1,0 +1,30 @@
+{
+  "name": "abs-skills",
+  "owner": {
+    "name": "Abs Research & Development",
+    "url": "https://github.com/absalfaromanuel"
+  },
+  "plugins": [
+    {
+      "name": "postgresql-django",
+      "source": {
+        "source": "github",
+        "repo": "absalfaromanuel/abs-claude-skills",
+        "path": "skills/postgresql-django"
+      },
+      "version": "1.0.0",
+      "description": "Best practices for PostgreSQL + Django in production SaaS. Schema design, indexing, partitioning, RLS, psycopg3, DRF, Celery, deployment.",
+      "category": "development",
+      "keywords": [
+        "postgresql",
+        "django",
+        "database",
+        "saas",
+        "python",
+        "drf",
+        "celery",
+        "psycopg3"
+      ]
+    }
+  ]
+}

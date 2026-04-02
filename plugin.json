@@ -1,0 +1,8 @@
+{
+  "name": "postgresql-django",
+  "source": "./skills/postgresql-django",
+  "version": "1.0.0",
+  "description": "Best practices for PostgreSQL + Django in production SaaS. Schema design, indexing, partitioning, RLS, psycopg3, DRF, Celery, deployment.",
+  "strict": false,
+  "skills": ["./"]
+}
